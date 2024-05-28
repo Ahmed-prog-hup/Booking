@@ -2,7 +2,7 @@
 
 namespace Booking.Models
 {
-    public class Booking
+    public class booking
     {
         [Key]
         public int Id { get; set; }
